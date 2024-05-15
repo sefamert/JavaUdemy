@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrayler/Arrayler.iml" filepath="$PROJECT_DIR$/Arrayler/Arrayler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AutoboxingUnboxing/AutoboxingUnboxing.iml" filepath="$PROJECT_DIR$/AutoboxingUnboxing/AutoboxingUnboxing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Composition1/Composition1.iml" filepath="$PROJECT_DIR$/Composition1/Composition1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/Encapsulation/Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdmanProgrami/IdmanProgrami.iml" filepath="$PROJECT_DIR$/IdmanProgrami/IdmanProgrami.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interfaceler/Interfaceler.iml" filepath="$PROJECT_DIR$/Interfaceler/Interfaceler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaUdemy.iml" filepath="$PROJECT_DIR$/JavaUdemy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Polymorphism/Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polymorphism2/Polymorphism2.iml" filepath="$PROJECT_DIR$/Polymorphism2/Polymorphism2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringSınıfı/StringSınıfı.iml" filepath="$PROJECT_DIR$/StringSınıfı/StringSınıfı.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrayList/arrayList.iml" filepath="$PROJECT_DIR$/arrayList/arrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/forEach Döngüsü/forEach Döngüsü.iml" filepath="$PROJECT_DIR$/forEach Döngüsü/forEach Döngüsü.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kartTahminOyunu/kartTahminOyunu.iml" filepath="$PROJECT_DIR$/kartTahminOyunu/kartTahminOyunu.iml" />
+    </modules>
+  </component>
+</project>
